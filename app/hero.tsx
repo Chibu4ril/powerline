@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <div><div className='container mx-auto px-5 xl:px-20 py-20'>
-      <div className="lg:grid grid-flow-col grid-cols-3 gap-12 flex flex-col-reverse">
+      <div className="lg:grid grid-flow-col grid-cols-3 gap-12 ">
         <div className='bg-white  col-span-2'>
           <img src="/trt.jpg" className='w-full object-fill' alt="" />
         </div>
